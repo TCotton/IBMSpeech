@@ -144,3 +144,4 @@ This data is collected from the `package.json` file in the sample application an
 [service_url]: http://www.ibm.com/watson/developercloud/speech-to-text.html
 [docs]: http://www.ibm.com/watson/developercloud/speech-to-text/
 [sign_up]: https://console.ng.bluemix.net/registration/
+# IBMSpeech
